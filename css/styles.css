@@ -5,7 +5,7 @@
 
 .navbar {
 	border-radius: 0px;
-	background-color: 4b0700;
+	background-color: #4b0700;
 }
 
 .navbar-brand {
@@ -48,7 +48,7 @@
   	text-align: center;
   	color: #ff2c16;
   	font-size: 54px;
-  	font-family: Helvetica, Arial, sans-serif;
+  	font-family: sans-serif;
   	font-weight: bold;
 }
 
@@ -84,7 +84,7 @@ li {
 	height: auto;
 	color: black;
 	background-color: #e18a7a;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: sans-serif;
 	padding: 20px;
 }
 
