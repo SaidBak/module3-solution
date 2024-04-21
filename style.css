@@ -3,6 +3,26 @@
 	padding: 0;
 }
 
+ /* LINKS */
+ 
+a:link {
+  color: #b91900;
+}
+
+a:visited {
+  color: #b91900;
+}
+
+a:hover {
+  color: #e11e00;
+}
+
+a:active {
+  color: #e11e00;
+} 
+
+/* NAVBAR */
+
 .navbar {
 	border-radius: 0px;
 	background-color: #4b0700;
@@ -38,6 +58,8 @@
 .icon-bar {
 	background-color: #ffffff;
 }
+
+/* OTHER STYLES */
 
 .row {
 	margin: 20px;
